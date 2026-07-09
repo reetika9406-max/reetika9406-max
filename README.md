@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 About Me<br>🎓 Engineering student<br><br>💡 Interested in Software Development & Machine Learning<br><br>🔥 Currently learning DSA in Java & Backend Development<br><br>🏋️‍♀️ )<br><br>🌱 Always improving and exploring new technologies
+🧑‍💻 About Me<br>🎓 Engineering student<br><br>💡 Interested in Software Development & Machine Learning<br><br>🔥 Currently learning DSA in Java & Backend Development<br><br><br><br>🌱 Always improving and exploring new technologies
 
 
 ## 🌐 Socials:
